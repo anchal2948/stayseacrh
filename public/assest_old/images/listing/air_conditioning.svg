@@ -1,0 +1,12 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M47.8599 63.7062L24.1401 49.7285" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24.1401 53.9648L26.1838 53.4075C27.6692 53.0024 28.6068 51.5386 28.3537 50.02L27.9522 47.6113" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M47.8599 59.8945L45.8162 60.4519C44.3308 60.857 43.3932 62.3208 43.6463 63.8394L44.0478 66.248" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M47.7989 50.0475L23.834 63.6006" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M27.5023 65.7187L28.0414 63.6701C28.4333 62.1812 27.6345 60.6374 26.1927 60.0973L23.9061 59.2406" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M44.4977 48.1416L43.9586 50.1902C43.5667 51.6791 44.3655 53.2229 45.8073 53.7631L48.0939 54.6197" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35.939 43.271L35.6938 70.8018" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M39.3622 68.6836L37.8576 67.1924C36.7641 66.1086 35.0277 66.0285 33.839 67.007L31.9538 68.559" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.6378 45.1768L34.1424 46.668C35.2359 47.7518 36.9723 47.8319 38.161 46.8534L40.0462 45.3014" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M74.5 31H81V53H74.5V52C74.5 49.5147 72.4853 47.5 70 47.5H51.1369C51.6406 48.4474 52.0518 49.4514 52.3585 50.5H70C70.8284 50.5 71.5 51.1716 71.5 52V53H52.8762C52.9579 53.6552 53 54.3227 53 55V56H81C82.6569 56 84 54.6569 84 53V31C84 29.3431 82.6569 28 81 28H19C17.3431 28 16 29.3431 16 31V53C16 54.6569 17.3431 56 19 56H20V55C20 54.3227 20.0421 53.6552 20.1238 53H19L19 31H25.5V34C25.5 36.4853 27.5147 38.5 30 38.5H70C72.4853 38.5 74.5 36.4853 74.5 34V31ZM71.5 31H28.5V34C28.5 34.8284 29.1716 35.5 30 35.5H70C70.8284 35.5 71.5 34.8284 71.5 34V31ZM65 39.5C64.1716 39.5 63.5 40.1716 63.5 41C63.5 41.8284 64.1716 42.5 65 42.5H71.5C72.3284 42.5 73 41.8284 73 41C73 40.1716 72.3284 39.5 71.5 39.5H65ZM63.5 45C63.5 44.1716 64.1716 43.5 65 43.5H71.5C72.3284 43.5 73 44.1716 73 45C73 45.8284 72.3284 46.5 71.5 46.5H65C64.1716 46.5 63.5 45.8284 63.5 45Z" fill="black"/>
+</svg>
